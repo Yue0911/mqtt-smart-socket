@@ -59,5 +59,11 @@
 
 <img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_13.png" width="500" height="300" alt="開啟main_cpp"/><br/>
 
+點選左下角"打勾圖示"開始編譯程式
 
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_14.png" width="500" height="100" alt="編譯"/><br/>
+
+之後點選左下角"箭頭圖示"開始上傳程式
+
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_15.png" width="500" height="100" alt="上傳"/><br/>
 
