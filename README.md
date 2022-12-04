@@ -138,7 +138,7 @@ Relay   ->查詢Relay狀態<br>
 
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_20.png" width="350" height="150" alt="OTA更新1"/><br/>
   
-選擇完後點選"Update Firmware"
+選擇完後點選"Update Firmware"，完成更新
   
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_21.png" width="350" height="150" alt="OTA更新2"/><br/>
 
