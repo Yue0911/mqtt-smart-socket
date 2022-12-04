@@ -69,3 +69,20 @@
 
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_15.png" width="500" height="100" alt="上傳"/><br/>
 
+# 使用方式
+通電後開啟手機WIFI連接畫面，選擇ESP12_XXXX熱點
+
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_16.png" width="500" height="270" alt="WIFI連接畫面"/><br/>
+
+輸入熱點密碼(預設:12345678)
+
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_17.png" width="500" height="270" alt="輸入熱點密碼"/><br/>
+
+輸入完後，會自動轉跳畫面(如果沒有轉跳，請至瀏覽器輸入192.168.4.1)<br>
+出現下方畫面後，按"設置WiFi"
+
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_18.png" width="350" height="450" alt="輸入熱點密碼"/><br/>
+
+輸入SSID，Password，MQTTServer IP，完成後按"儲存"，完成設置
+
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_19.png" width="350" height="450" alt="輸入熱點密碼"/><br/>
