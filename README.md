@@ -5,7 +5,8 @@
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-arduino-1">安裝-Arduino</a><br>
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-platformio-1">安裝-PlatformIO</a><br>
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F-1">使用方式</a><br>
-<h3><a href="">資料文件</a><br>
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E8%B3%87%E6%96%99%E6%96%87%E4%BB%B6-1">資料文件</a><br>
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%91%BD%E4%BB%A4-1">命令</a><br>
 
 # WiFiManager
   
@@ -111,10 +112,20 @@ led_off ->關閉板上LED<br>
 ip      ->查詢開發板IP<br>
 On      ->開啟Relay<br>
 Off     ->關閉Relay<br>
-RESET   ->重製開發板<br>
+RESET   ->重置開發板<br>
 Relay   ->查詢Relay狀態<br>
+<h2>!!警告，RESET會重置WIFI連線資料以及MQTT資料!!</h2><br>
   
 # 命令回傳值
+對"cmnd/ESP12_XXXX"傳入命令"ip"<br>
+"tele/ESP12_XXXX"輸出格式"{"Date":"xxxx-xx-xx xx:xx:xx","ip":"xxx.xxx.xxx.xxx"}"<br>
+範例 : "{"Date":"2022-12-04 19:37:26","ip":"192.168.5.105"}"<br>
+
+對"cmnd/ESP12_XXXX"傳入命令"Relay"<br>
+"tele/ESP12_XXXX"輸出格式"{"Date":"xxxx-xx-xx xx:xx:xx","Relay_state":"Off"}"<br>
+範例 : "{"Date":"2022-12-04 19:40:18","Relay_state":"Off"}"<br>
+範例 : "{"Date":"2022-12-04 19:40:18","Relay_state":"On"}"<br>
+!!此程式每五分鐘會自動輸出Relay狀態!!
   
   
   
