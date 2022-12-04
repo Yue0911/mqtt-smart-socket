@@ -8,6 +8,7 @@
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E8%B3%87%E6%96%99%E6%96%87%E4%BB%B6-1">資料文件</a><br>
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%91%BD%E4%BB%A4-1">命令</a><br>
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%91%BD%E4%BB%A4%E5%9B%9E%E5%82%B3%E5%80%BC-1">命令回傳值</a><br>
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#ota%E6%9B%B4%E6%96%B0-1">OTA更新</a><br>
 
 # WiFiManager
   
@@ -135,7 +136,11 @@ Relay   ->查詢Relay狀態<br>
 編譯完後請至專案資料夾尋找.pio\build\d1_mini裡的firmware.bin<br>
 開啟瀏覽器輸入設備IP/update(範例 : 192.168.5.105/update)開啟更新畫面，點選Firmware的選擇檔案，選擇firmware.bin<br>
 
-<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_20.png" width="350" height="150" alt="OTA更新"/><br/>
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_20.png" width="350" height="150" alt="OTA更新1"/><br/>
+  
+選擇完後點選"Update Firmware"
+  
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_21.png" width="350" height="150" alt="OTA更新2"/><br/>
 
   
   
