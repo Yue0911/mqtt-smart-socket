@@ -2,9 +2,9 @@
 來2022/12/2益師傅的MQTT智能插座程式修改來的
 新增WiFiManager，NTPClient，OTA支援<br>
 
-<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-arduino">安裝-Arduino</a><br>
-<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-platformio">安裝-PlatformIO</a><br>
-<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F">使用方式</a><br>
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-arduino-1">安裝-Arduino</a><br>
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-platformio-1">安裝-PlatformIO</a><br>
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F-1">使用方式</a><br>
 
 # WiFiManager
   
