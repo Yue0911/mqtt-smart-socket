@@ -41,4 +41,11 @@
 
 開啟platformIO資料夾，把裡面的ZIP檔解壓縮
 
-開啟VS code，選擇左方"延伸模組"，上方搜尋"PlatformIO"
+開啟VS code，選擇左方"延伸模組"，上方搜尋"PlatformIO"，安裝PlatformIO
+
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_10.png" width="400" height="150" alt="安裝PlatformIO"/><br/>
+
+安裝完畢後選擇左方PlatformIO，後點選open，在點選Platform，在點選Embedded，搜尋esp，安裝Espressif 8266
+
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_11.png" width="400" height="150" alt="安裝PlatformIO"/><br/>
+
