@@ -32,3 +32,13 @@
 選擇端口後編譯上傳
 
 # 安裝-PlatformIO
+下載ZIP檔
+
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_5.png" width="300" height="300" alt="下載ZIP"/><br/>
+解壓縮ZIP
+
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_6.png" width="400" height="150" alt="解壓縮ZIP"/><br/>
+
+開啟platformIO資料夾，把裡面的ZIP檔解壓縮
+
+開啟VS code，選擇左方"延伸模組"，上方搜尋"PlatformIO"
