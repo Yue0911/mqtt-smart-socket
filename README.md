@@ -1,6 +1,6 @@
 # mqtt-smart-socket
 來2022/12/2益師傅的MQTT智能插座程式修改來的
-新增WiFiManager，NTPClient，OTA支援<br>
+新增WiFiManager，NTPClient，OTA，FS支援<br>
 
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-arduino-1">安裝-Arduino</a><br>
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-platformio-1">安裝-PlatformIO</a><br>
@@ -118,6 +118,7 @@ Relay   ->查詢Relay狀態<br>
 <h2>!!警告，RESET會重置WIFI連線資料以及MQTT資料!!</h2><br>
   
 # 命令回傳值
+
 對"cmnd/ESP12_XXXX"傳入命令"ip"<br>
 "tele/ESP12_XXXX"輸出格式"{"Date":"xxxx-xx-xx xx:xx:xx","ip":"xxx.xxx.xxx.xxx"}"<br>
 範例 : "{"Date":"2022-12-04 19:37:26","ip":"192.168.5.105"}"<br>
@@ -128,6 +129,13 @@ Relay   ->查詢Relay狀態<br>
 範例 : "{"Date":"2022-12-04 19:40:18","Relay_state":"On"}"<br>
 !!此程式每五分鐘會自動輸出Relay狀態!!
   
-  
+# OTA更新
+
+!!請使用PlatformIO來編譯!!<br>
+編譯完後請至專案資料夾尋找.pio\build\d1_mini裡的firmware.bin<br>
+開啟瀏覽器輸入設備IP/update(範例 : 192.168.5.105/update)開啟更新畫面，點選Firmware的選擇檔案，選擇firmware.bin<br>
+
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_20.png" width="350" height="150" alt="OTA更新"/><br/>
+
   
   
