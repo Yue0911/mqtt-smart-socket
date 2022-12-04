@@ -5,6 +5,7 @@
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-arduino-1">安裝-Arduino</a><br>
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-platformio-1">安裝-PlatformIO</a><br>
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F-1">使用方式</a><br>
+<h3><a href="">資料文件</a><br>
 
 # WiFiManager
   
@@ -97,11 +98,23 @@
   
 # 資料文件
 
+設置熱點名稱 : ESP_XXXX
+設置熱點密碼 : 12345678
 MQTT-Publish : tele/ESP12_XXXX<br>
 MQTT-Subscriptions : cmnd/ESP12_XXXX<br>
 ESP_XXXX -> XXXX是ESP8266的MAC後四碼，請記錄下來<br>
-
   
+# 命令
+
+led_on  ->開啟板上LED<br>
+led_off ->關閉板上LED<br>
+ip      ->查詢開發板IP<br>
+On      ->開啟Relay<br>
+Off     ->關閉Relay<br>
+RESET   ->重製開發板<br>
+Relay   ->查詢Relay狀態<br>
+  
+# 命令回傳值
   
   
   
