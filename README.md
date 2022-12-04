@@ -94,3 +94,15 @@
 輸入SSID，Password，MQTTServer IP，完成後按"儲存"，完成設置
 
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_19.png" width="350" height="450" alt="輸入熱點密碼"/><br/>
+  
+# 資料文件
+
+MQTT-Publish : tele/ESP12_XXXX<br>
+MQTT-Subscriptions : cmnd/ESP12_XXXX<br>
+ESP_XXXX -> XXXX是ESP8266的MAC後四碼，請記錄下來<br>
+
+  
+  
+  
+  
+  
