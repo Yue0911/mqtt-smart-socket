@@ -57,7 +57,7 @@
 
 點選src，開啟main.cpp
 
-<img src="hhttps://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_13.png" width="500" height="300" alt="開啟main_cpp"/><br/>
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_13.png" width="500" height="300" alt="開啟main_cpp"/><br/>
 
 點選左下角"打勾圖示"開始編譯程式
 
