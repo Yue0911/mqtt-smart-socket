@@ -57,7 +57,7 @@
 
 點選src，開啟main.cpp
 
-<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_13.png" width="600" height="300" alt="開啟main_cpp"/><br/>
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_13.png" width="600" height="200" alt="開啟main_cpp"/><br/>
 
 
 
