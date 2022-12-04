@@ -7,3 +7,6 @@
 <img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_3.png" width="200" height="350" alt="資料頁面"/><br/>
 # OTA
 <img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_4.png" width="350" height="150" alt="OTA頁面"/><br/>
+# 安裝-Arduino
+下載ZIP檔
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_5.png" width="300" height="300" alt="下載ZIP"/><br/>
