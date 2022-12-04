@@ -47,5 +47,8 @@
 
 安裝完畢後選擇左方PlatformIO，後點選open，在點選Platform，在點選Embedded，搜尋esp，安裝Espressif 8266
 
-<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_11.png" width="400" height="150" alt="安裝PlatformIO"/><br/>
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_11.png" width="600" height="400" alt="安裝PlatformIO"/><br/>
 
+安裝完後，點選Home，點選Open Project
+
+<img src="https://github.com/Yue0911/mqtt-smart-socket/blob/main/README/IMG_12.png" width="600" height="400" alt="安裝PlatformIO"/><br/>
