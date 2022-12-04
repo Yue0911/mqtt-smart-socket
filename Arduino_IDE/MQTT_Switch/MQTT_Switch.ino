@@ -152,8 +152,6 @@ void callback(char *topic, byte *payload, int length) {
     Serial.println("重制中");
     LittleFS.format();
     wm.resetSettings();
-    delay(200);
-    ESP.reset();
   } else if (message == "Relay") {
     client.publish(PublishTopic, (getvalumqtt("Relay_state").c_str()));
   }
