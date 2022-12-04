@@ -1,15 +1,23 @@
 # mqtt-smart-socket
 來2022/12/2益師傅的MQTT智能插座程式修改來的
 新增WiFiManager，NTPClient，OTA支援<br>
-<a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-arduino">安裝-Arduino</a><br>
-<a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-platformio">安裝-PlatformIO</a><br>
+
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-arduino">安裝-Arduino</a><br>
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-platformio">安裝-PlatformIO</a><br>
+<h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F">使用方式</a><br>
+
 # WiFiManager
+  
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_1.png" width="200" height="350" alt="主頁面"/><br/>
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_2.png" width="200" height="350" alt="wifi設定"/><br/>
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_3.png" width="200" height="350" alt="資料頁面"/><br/>
+  
 # OTA
+  
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_4.png" width="350" height="150" alt="OTA頁面"/><br/>
+  
 # 安裝-Arduino
+  
 下載ZIP檔
 
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_5.png" width="300" height="300" alt="下載ZIP"/><br/>
