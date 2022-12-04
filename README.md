@@ -51,7 +51,7 @@
 
 安裝完後，點選Home，點選Open Project
 
-<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_12.png" width="600" height="300" alt="Open_Project"/><br/>
+<img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_12.png" width="600" height="270" alt="Open_Project"/><br/>
 
 選擇platformIO資料夾，解壓縮完後的資料夾
 
