@@ -1,6 +1,7 @@
 # mqtt-smart-socket
 來2022/12/2益師傅的MQTT智能插座程式修改來的
 新增WiFiManager，NTPClient，OTA，FS支援<br>
+<h3>注意，此範例Library是修該過的，請使用範例提供的Library</h3>
 
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-arduino-1">安裝-Arduino</a><br>
 <h3><a href="https://github.com/Yue0911/mqtt-smart-socket#%E5%AE%89%E8%A3%9D-platformio-1">安裝-PlatformIO</a><br>
@@ -37,7 +38,7 @@
 
 <img src="https://github.com/Yue0911/ph-readme/blob/main/mqtt-smart-socket/IMG_8.png" width="500" height="400" alt="MQTT_Switch"/><br/>
 
-<h1>!!警告!! !!請勿更新Library!!</h1>
+<h1>!!警告!! !!請勿更新Library!!</h1><br>
 
 選擇ESP8266 D1
 
